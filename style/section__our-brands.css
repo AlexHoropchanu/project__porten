@@ -1,0 +1,19 @@
+.our-brands{
+    background: #0F0F0F;
+}
+.title__our-brands{
+    font-weight: bold;
+font-size: 36px;
+line-height: 48px;
+text-align: center;
+text-transform: uppercase;
+color: #FFFFFF;
+padding-top: 60px;
+padding-bottom: 40px;
+}
+.brands{
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 80px;
+}

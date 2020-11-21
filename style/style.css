@@ -1,0 +1,21 @@
+@import url(scroll-bar.css);
+@import url(header.css);
+@import url(section-top.css);
+@import url(section-second.css);
+@import url(section__collection-2018.css);
+@import url(section__new-arrivals.css);
+@import url(section__our-brands.css);
+@import url(footer.css);
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+}
+.container{
+    margin-left: 405px;
+    margin-right: 405px;
+}

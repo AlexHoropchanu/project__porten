@@ -1,0 +1,101 @@
+.footer__wrapper{
+    background-image: url("../img/baclground-footer.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.footer__wrapper__content{
+    display: flex;
+    justify-content: space-between;
+}
+.about-magazine{
+    max-width: 350px;
+    margin-bottom: 100px;
+}
+.title__footer{
+    font-size: 24px;
+line-height: 32px;
+text-transform: uppercase;
+color: #FFFFFF;
+margin-top: 80px;
+margin-bottom: 40px;
+}
+.footer__text{
+    font-size: 14px;
+line-height: 150%;
+color: #FFFFFF;
+
+
+}
+.categories{
+
+    margin-right: 90px;
+}
+.categories__list{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    list-style: none;
+    height: 100px;
+}
+.footer__list__link{
+    text-decoration: none;
+    background-color: black;
+    font-size: 14px;
+    line-height: 150%;
+    color: #D0D0D0;
+    padding: 10px 20px;
+}
+.malling{
+    width: 350px;
+}
+
+
+
+.input__wrapper{
+    display: flex;
+    margin-top: 38px;
+}
+.footer__input{
+    display: block;
+    border: none;
+    padding: 10px 0px 10px 20px;
+    background: rgba(255, 255, 255, 0.4);
+    color: white;
+    outline: none;
+}
+.button__input{
+    border: none;
+    background: #0F0F0F;
+    padding: 0 10px;
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 0.05em;
+    color: white;
+    outline: none;
+}
+.footer__input::-webkit-input-placeholder {color:#FFFFFF;}
+.footer__input::-moz-placeholder          {color:#ffffff;}/* Firefox 19+ */
+.footer__input:-moz-placeholder           {color:#ffffff;}/* Firefox 18- */
+.footer__input:-ms-input-placeholder      {color:#ffffff;}
+.footter__bottom-line{
+
+    background: #0F0F0F;
+}
+.footter__bottom-line__wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+}
+.footer__bottom__text{
+    font-size: 12px;
+line-height: 16px;
+color: #D0D0D0;
+}
+.footer__bottom__link{
+
+    font-size: 12px;
+line-height: 16px;
+text-align: right;
+color: #D0D0D0;
+}

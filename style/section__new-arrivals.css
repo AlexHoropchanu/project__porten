@@ -1,0 +1,23 @@
+.new-arrivals{
+    background-color: black;
+}
+.title-new-arrivals{
+    font-size: 36px;
+line-height: 48px;
+text-align: center;
+text-transform: uppercase;
+color: #FFFFFF;
+padding-top: 120px;
+padding-bottom: 40px;
+}
+.new-arrivals__top{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+}
+.new-arrivals__bottom{
+    display: flex;
+    justify-content: space-around;
+padding-bottom: 150px;
+margin-top: 40px;
+}

@@ -1,0 +1,81 @@
+.second{
+    display: flex;
+    
+    }
+    .sesson{
+        width: 60%;
+        background: #000000;
+    
+    }
+    .title__sesson{
+        font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding-bottom: 30px;
+    padding-top: 90px;
+    }
+    .border{
+        margin-top: 50px;
+        margin-bottom: 50px;
+        margin: 0 auto;
+        width: 120px;
+        border-bottom: 1px solid #ffffff;
+        margin-bottom: 30px;
+    }
+    .title__second span{
+        font-size: 22px;
+    }
+    .sesson__product__wrapper{
+        display: flex;
+        margin-top: 50px;
+        justify-content: space-around;
+        margin-bottom: 93px;
+    }
+    .title__product__sesson{
+        font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    }
+    .small-title__product__sesson{
+        font-weight: bold;
+    font-size: 16px;
+    line-height: 21px;
+    color: #D0D0D0;
+    
+    }
+    .colection{
+        background-image: url(../img/background__sesson.png);
+       width: 40%;
+    height: 730px;s
+    }
+    .title__colection{
+        padding-top: 484px;
+        padding-bottom: 15px;
+        font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    }
+    .cataloge__colection{
+        margin-top: 583px;
+        font-size: 18px;
+    line-height: 23px;
+    margin: 0 auto;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    align-items: center;
+    border: 1px solid #FFFFFF;
+    width: 138px;
+    height: 47px;
+    }
